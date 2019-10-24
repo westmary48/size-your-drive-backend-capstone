@@ -33,4 +33,4 @@ migrations
 README.md
 
 #db location
-# sizeyourdriveapp/views/connection.py
+donationapp/views/connection.py
